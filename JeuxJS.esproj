@@ -3,7 +3,4 @@
     <None Remove="www\NewFolder\NewFolder\**" />
     <TypeScriptConfiguration Remove="www\NewFolder\NewFolder\**" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="www\NewFolder\" />
-  </ItemGroup>
 </Project>
